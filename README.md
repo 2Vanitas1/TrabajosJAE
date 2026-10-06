@@ -1,2 +1,2 @@
 # TrabajosJAE
-Repo para trabajos JAE
+Repo para trabajos JAE estudiante Carlos E. Quispe Tomas
